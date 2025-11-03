@@ -48,7 +48,7 @@ No dependencies or build steps are required.
 
 1.  **Clone the repository (or download the files):**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/CygnusProject.git](https://github.com/YOUR_USERNAME/CygnusProject.git)
+    git clone https://github.com/Vishwajeet-pro/CygnusProject.git
     ```
 2.  **Navigate to the folder:**
     ```sh
