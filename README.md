@@ -48,11 +48,11 @@ No dependencies or build steps are required.
 
 1.  **Clone the repository (or download the files):**
     ```sh
-    git clone https://github.com/Vishwajeet-pro/CygnusProject.git
+    git clone https://github.com/Vishwajeet-pro/cygnus.git
     ```
 2.  **Navigate to the folder:**
     ```sh
-    cd CygnusProject
+    cd cygnus
     ```
 3.  **Run the website:**
     Simply open the `index.html` file in your favorite web browser.
